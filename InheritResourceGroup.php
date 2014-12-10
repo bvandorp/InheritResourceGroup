@@ -1,14 +1,6 @@
 <?php
 /*
-	
-	Simple modx plugin that checks if the resource has a parent that is part of a resource group and automatically adds the child resource to this resource group.
-	
-	Usage: 
-	1. Create new plugin and name it InheritResourceGroup
-	2. Copy/Paste the contents of this file
-	3. At system events check the checkbox at onDocFormSave
-	4. Save a child-resource to test it (which has a parent with a resourcegroup set)
-	
+	Simple modx plugin that checks if the resource has a parent that is part of a resource group and automatically adds the child resource to this resource group.	
 */	
 	
 	
